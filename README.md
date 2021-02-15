@@ -4,9 +4,9 @@ My favorite webscraping  tool ** Beautiful Soup**
 Web Scraping with Python
 There are a few libraries you will need, you can go to your command line and install them with conda install (if you are using anaconda distribution), or pip install for other python distributions.
 
-` pip install requests
-pip install lxml
-pip install bs4 `
+` pip install requests `
+`pip install lxml`
+`pip install bs4 `
 
 ## Let's start very simple, we will grab the title of a page. Remember that this is the HTML block with the title tag. For this task we will use www.example.com which is a website specifically made to serve as an example domain. Let's go through the main steps:
 
