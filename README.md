@@ -8,7 +8,7 @@ There are a few libraries you will need, you can go to your command line and ins
 `pip install lxml`
 `pip install bs4 `
 
-## Let's start very simple, we will grab the title of a page. Remember that this is the HTML block with the title tag. For this task we will use www.example.com which is a website specifically made to serve as an example domain. Let's go through the main steps:
+## Let's start very simple, we will grab the title of a page. Remember that this is the HTML block with the title tag.
 
 ` import requests `
 
